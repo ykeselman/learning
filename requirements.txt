@@ -1,0 +1,10 @@
+# HuggingFace
+transformers
+datasets
+
+soundfile>=0.12.1
+librosa>=0.10.1
+
+torchaudio>=2.0.2
+
+# sudo apt-get install ffmpeg
