@@ -1,1 +1,1 @@
-# learning
+# Code related to various courses
